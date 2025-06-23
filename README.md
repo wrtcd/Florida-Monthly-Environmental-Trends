@@ -48,4 +48,14 @@ The final output is a CSV file with the following structure:
 
 ## License
 
-This project is released under the MIT License.
+This dataset is derived from publicly available sources including:
+
+- NASA SMAP Level-4 surface soil moisture products  
+- Copernicus Sentinel-2 imagery (NDVI)  
+- JRC Global Surface Water data  
+- CHIRPS precipitation data from UCSB/CHG  
+- U.S. Census TIGER/Line shapefiles for state boundaries
+
+The dataset was processed using Google Earth Engine.  
+Users are free to use, share, and adapt this data for research, education, and public use.  
+Please cite the original data providers appropriately when using or referencing this dataset.
